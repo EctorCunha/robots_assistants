@@ -1,3 +1,3 @@
 ### Assistente virtual
 
- Projeto simples de uma assistente virtual
+ Projeto simples de duas assistentes virtuais respondendo por controle de voz.
